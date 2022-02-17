@@ -41,5 +41,5 @@ for filename in os.listdir("./cogs"):
 
 
 
-TOKEN = "a"
+TOKEN = "YOUR_TOKEN"
 client.run(TOKEN)
